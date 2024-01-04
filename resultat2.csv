@@ -1,4 +1,4 @@
-@id,POI,description,latitude,longitude,adresse postale,localité,code postale
+@id,POI,description,latitude,longitude,adresse_postale,localité,code_postal
 https://data.datatourisme.fr/13/f2007f27-6e0d-31e3-b891-5f737fce94d2,Nomade Restaurant,"[""Nomade restaurant est né de l'envie de créer un lieu à la fois convivial et raffiné. Guidés par nos expériences culinaires et nos voyages, nous aimerions partager les émotions suscitées par ces aventures en alliant cuisine du monde et cuisine traditionnel""]",45.564725,5.001317,"205 Voie Romaine, Le péage de Septème",Septème,38780
 https://data.datatourisme.fr/13/f200dd61-acf9-3711-a375-615998a148b0,Bibliothèque municipale,"['Accès PC et internet, thèmes et animations selon saison, animation jeux de société le deuxième mercredi après-midi du mois, grand choix de BD, Polars et livres jeunesse.']",45.811742,4.404888,27 chemin des Placettes,Villechenève,69770
 https://data.datatourisme.fr/13/f202d90b-ccb1-3351-ab56-c6f46ad71544,Châteaudouble,"['Châteaudouble, un village très riche en histoire vous emmène découvrir des secrets à travers son beau château.']",44.899586,5.093649,Place de la Fontaine,Châteaudouble,26120
